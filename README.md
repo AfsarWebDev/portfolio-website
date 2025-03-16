@@ -3,7 +3,7 @@
 Welcome to my **Portfolio Website**! This project showcases my skills, experience, and projects as a **Frontend Developer**.
 
 ## 🚀 Live Demo  
-🔗 [View My Portfolio]((http://127.0.0.1:5500/))  
+🔗 [View My Portfolio](http://127.0.0.1:5500/)  
 
 ## 📌 About This Project  
 This website is built using:  
